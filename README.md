@@ -1,5 +1,5 @@
 # Using-WBS-in-MS-Project-to-Structure-Your-Gantt-Chart
-This project has a total of 23 working days with days assigned for each milestone
+# This project has a total of 23 working days with days assigned for each milestone/objective.
 
 ## STEP 1 — Open Microsoft Project
 
@@ -35,7 +35,7 @@ Test Sign-Off
 Go Live
 Post-Implementation Review
 
-# Step 3 -  Add Duration as show in the image
+# Step 3 -  Add Duration as shown in the image
 
 # Step 4 
 
@@ -62,7 +62,7 @@ Post-Implementation Review
 - 1.4 Go Live (Milestone)
 - 1.5 Post-Implementation Review (1 day)
 
-- Full video walkthrough available here 
+- Full video walkthrough available here https://www.youtube.com/watch?v=Msaert8TBuc
 
 
 Join my community
