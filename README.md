@@ -37,12 +37,17 @@ Post-Implementation Review
 
 # Step 3 -  Add Duration as shown in the image https://github.com/JohnCloudOps/Using-WBS-in-MS-Project-to-Structure-Your-Gantt-Chart/blob/main/WBS%20and%20Gantt%20Chart%20Project%20Management.png
 
-# Step 4 
+# Step 4 Indentation
+Select the sub-tasks under each milestone.
+Click Task tab and click on the ident icon.
+You should observe a shift in the positioning of your task and up-arrow allowing you to contract the tasks below.
 
-# Step 5
+# Step 5 WBS
+Select a new column
+Right-Click column and locate WBS
+Click on WBS and observe the change in the structure of your tasks as shown below.
 
 
-### 1. IT System Deployment
 - 1.1 Requirements Gathering
   - 1.1.1 Stakeholder Interviews (2 days)
   - 1.1.2 Document Current System (1 day)
@@ -61,6 +66,8 @@ Post-Implementation Review
   - 1.3.4 Test Sign-Off (Milestone)
 - 1.4 Go Live (Milestone)
 - 1.5 Post-Implementation Review (1 day)
+
+  ##Congratulation! You've professionally structured and simplified your project 
 
 - Full video walkthrough available here https://www.youtube.com/watch?v=Msaert8TBuc
 
