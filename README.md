@@ -35,7 +35,7 @@ Test Sign-Off
 Go Live
 Post-Implementation Review
 
-# Step 3 -  Add Duration as shown in the image
+# Step 3 -  Add Duration as shown in the image https://github.com/JohnCloudOps/Using-WBS-in-MS-Project-to-Structure-Your-Gantt-Chart/blob/main/WBS%20and%20Gantt%20Chart%20Project%20Management.png
 
 # Step 4 
 
